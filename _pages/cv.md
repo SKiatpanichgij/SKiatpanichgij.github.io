@@ -58,15 +58,18 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software Development, R&D Management and Inspection Technologies, Encourage colleagues to endorse these skill.
+*
+* Technical Skill: C/C++/C#, Delphi, Python, Java, MATLAB/Octave, HTML, PHP, SQL, Android studio, Micro-controller - 8051, STM32.  
+
+* Team collaboration tool: AirTable, Microssoft Project, Miro, Slack, MsTeam  Software Control Version: Bitbucket, Github, SourceTreee  
+
+* Research Interested: Machine Vision, Computer Graphic, Machine learning, IOT and Navigation system.
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+| International journal    | - Berdinsky, D., Kim, T. W., Cho, D., Bracco, C., & Kiatpanichgij, S. (2015). Bases of T-meshes and the refinement of hierarchical B-splines. Computer Methods in Applied Mechanics and Engineering, Vol. 283, pp. 841-855<br><br>- Kiatpanichgij, S., Afzulpurkar, N., & Kim, T. W. (2014). Three-dimensional model reconstruction from industrial computed tomography-scanned data for reverse engineering. Virtual and Physical Prototyping, Vol. 9, No. 2, pp. 97-114<br><br>- Berdinsky, D., Kim, T. W., Bracco, C., Cho, D., Oh, M. J., Seo, Y. H., & Kiatpanichgij, S. (2014). Iterative refinement of hierarchical T-meshes for bases of spline spaces with highest order smoothness. Computer-Aided Design, 47, 96-107.<br><br>- Berdinsky, D., Kim, T. W., Bracco, C., Cho, D., Mourrain, B., Oh, M. J., & Kiatpanichgij, S. (2014). Dimensions and bases of hierarchical tensor-product splines. Journal of Computational and Applied Mathematics, 257, 86-104. |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| International conference | -Dmitry Berdinsky, Cesare Bracco, Min-jae Oh, Sutipong Kiatpanichgij, Yeong-hwa Seo, Tae-wan Kim, “Iterative refinement of T-meshes for bases of spline spaces”, Asian Conference on Design and Digital Engineering, 2012.<br><br>- Kiatpanichgij S., Afzulpurkar, N., & Thepayasuwan N., **“**Automated Visual Inspection System for Suspension Assembly Process**”,** the 1st International Data Storage Technology Conference (DST-CON) The paragon of the world’s HDD manufacturing 21-23rd April 2008, Bangkok, Thailand.                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Local conference         | -Sutipong Kiatpanichgij, Chang-soo Park, Min-jae Oh, Nitin Afzulpurkar, Myung-joo Kang, Tae-wan Kim, “3D Modeling from Industrial CT Data”, Proceedings of the Korea Society of CAD/CAM Conference, 2013.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
