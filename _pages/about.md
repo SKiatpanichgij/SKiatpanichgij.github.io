@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: Welcome to Sutipong's Website
+title: Welcome to Sutipong's Website!
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 Thanks for visiting my website! I am Researcher and Software Developer. 
+
 Sutipong's personal website
 ======
 Summary: Experienced Software Development Manager with a demonstrated history in the inspection services industry. Skilled in leading R&D projects, developing innovative software solutions, and enhancing operational efficiency. Passionate about integrating cutting-edge technology to drive industry advancements.  
