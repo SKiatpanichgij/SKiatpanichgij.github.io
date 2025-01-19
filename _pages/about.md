@@ -19,4 +19,5 @@ Software Control Version: Bitbucket, GitHub, SourceTree
   
 Research Interested: Machine Vision, Computer Graphic, Machine learning, IOT and Navigation system.
 
-Please take a look at the link above to learn more about me. 
+// Please take a look at the link above to learn more about me. 
+I am looking for the Freelance/PartTime Programming Job or very interesting project/ research, please feel free to contact me 
